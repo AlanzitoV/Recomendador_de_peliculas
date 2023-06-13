@@ -19,9 +19,9 @@ pipreqs==0.4.13
 pydantic==1.10.9
 pyparsing==3.0.9
 regex==2023.6.3
-scikit-learn
-scipy
-seaborn
+scikit-learn==1.2.2
+scipy==1.10.1
+seaborn==0.12.2
 threadpoolctl==3.1.0
 tqdm==4.65.0
 tzdata==2023.3
