@@ -1,7 +1,7 @@
 import fastapi
 import pandas as pd
 import joblib
-
+ 
 app = fastapi.FastAPI()
 
 df = pd.read_csv(r'df_modificado.csv')
